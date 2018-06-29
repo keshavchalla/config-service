@@ -22,7 +22,7 @@ version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
 
 bootJar {
-	baseName = 'config-service'
+	baseName = 'cloud-config-service'
 	version = '0.0.1-SNAPSHOT'
 }
 sourceCompatibility = 1.8
